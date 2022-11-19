@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajan Shrestha</h1>
 <h3 align="center">A passionate frontend developer from Nepal.</h3>
 
-<p align="left"> <a href="https://twitter.com/rajanstha_dev" target="blank"><img src="https://img.shields.io/twitter/follow/shresth_rajan?logo=twitter&style=for-the-badge" alt="shresth_rajan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rajanstha_dev" target="blank">Twitter</a> </p>
 
 - 🌱 I’m currently learning **ReactJs**
 
