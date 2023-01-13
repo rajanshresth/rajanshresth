@@ -1,6 +1,5 @@
 ### Hi there 👋, Hi wave, I'm Rajan Shrestha
 #### A passionate frontend developer from Nepal.
-![A passionate frontend developer from Nepal.](https://twitter.com/rajanstha_dev/header_photo)
 
 
 Skills: JS / REACT / TS / NextJs / TailwindCSS
