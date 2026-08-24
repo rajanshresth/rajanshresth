@@ -14,12 +14,12 @@ My focus areas include:
 
 ### Tech Stack
 
-**Languages:** Python, SQL, JavaScript
-**Data:** Pandas, NumPy, Scikit-learn, SciPy, Statsmodels
-**Analytics:** Tableau, Excel, Matplotlib, Plotly
-**Optimization:** Pyomo, Linear Programming, MILP
-**AI:** LLMs, RAG, AI Agents, Vector Search
-**Engineering:** Git, Docker, FastAPI, n8n, APIs
+- **Languages:** Python, SQL, JavaScript
+- **Data:** Pandas, NumPy, Scikit-learn, SciPy, Statsmodels
+- **Analytics:** Tableau, Excel, Matplotlib, Plotly
+- **Optimization:** Pyomo, Linear Programming, MILP
+- **AI:** LLMs, RAG, AI Agents, Vector Search
+- **Engineering:** Git, Docker, FastAPI, n8n, APIs
 
 ### What I Build
 
