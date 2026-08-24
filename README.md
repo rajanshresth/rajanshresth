@@ -35,4 +35,4 @@ My focus areas include:
 
 > Analyze → Predict → Optimize → Decide
 
-🌐 [Portfolio](https://rajanbuilds.com) · 💼 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/rajanstha7/)
+🌐 [Portfolio](https://rajanbuilds.com) · 💼 [LinkedIn](https://www.linkedin.com/in/rajanstha7)
